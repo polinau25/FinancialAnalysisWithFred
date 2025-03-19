@@ -3,10 +3,10 @@ Financial analysis using Fred API
 
 ### Skills learned
 1. Exploring Fred economic datasets.
-2. Learning Python [Bokeh interactive visualization library](https://bokeh.org/).  
+2. Learning Python [Bokeh interactive visualization library](https://bokeh.org/). The goal was to try different chart types and features.
 
 ### Insights from the data
-We've explored some of the datasets from [FRED](https://fred.stlouisfed.org/).  
+We've explored some of the datasets from [Fred](https://fred.stlouisfed.org/).  
 First, we looked at relation between inflation and interest rate. It is known that interest rates and inflation are intrinsically linked: central banks often raise interest rates to curb rising inflation by making borrowing more expensive, which cools down the economy and reduces demand, ultimately lowering inflation. 
 ![Image](images/InterestRateVsInflation.png?raw=true)   
 
