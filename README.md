@@ -16,6 +16,6 @@ And indeed we can see that trend in the actual data:
 Next, we looked at unemployment rate in US by state. The interactive chart reveals that Nevada experienced the highest unemployment during COVID:
 ![Image](images/UnemploymentNevada.png?raw=true)  
 
-Last visual was the unemployment rate by sex:
+Last visual was the unemployment rate by sex:  
 ![Image](images/UnemploymentBySex.png?raw=true)  
 We can see that although normally unemployment rate is similar for men and women, women experienced higher unemployment rate during COVID.
