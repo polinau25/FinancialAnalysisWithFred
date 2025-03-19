@@ -3,7 +3,8 @@ Financial analysis using Fred API
 
 ### Skills learned
 1. Exploring Fred economic datasets.
-2. Learning Python [Bokeh interactive visualization library](https://bokeh.org/). The goal was to try different chart types and features.
+2. Working with API keys.
+3. Learning Python [Bokeh interactive visualization library](https://bokeh.org/). The objective was to explore various chart types and features.
 
 ### Insights from the data
 We've explored some of the datasets from [Fred](https://fred.stlouisfed.org/).  
